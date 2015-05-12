@@ -1,0 +1,6 @@
+<!ENTITY appName "ASSO Notifier">
+<!ENTITY globalOptionsHeader "ASSO Notifier Options">
+<!ENTITY apiKeyFieldSetHeader "API Key">
+
+<!ENTITY howToGenerateAPIKey "To generate API Key please ...">
+<!ENTITY pleaseSubmitTheOrder "Please submit your order">

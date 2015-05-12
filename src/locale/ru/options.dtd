@@ -1,0 +1,6 @@
+<!ENTITY appName "Уведомления ASSO">
+<!ENTITY globalOptionsHeader "Настройки ASSO Notifier">
+<!ENTITY apiKeyFieldSetHeader "Ключ API">
+
+<!ENTITY howToGenerateAPIKey "Получить ключ можно в настройках аккаунта ASSO">
+<!ENTITY pleaseSubmitTheOrder "Пожалуйста закажите еду">

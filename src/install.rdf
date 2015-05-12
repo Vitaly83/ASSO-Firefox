@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>asso_notifier@orbitsoft.com</em:id>
+        <em:version>0.0.1</em:version>
+        <em:type>2</em:type>
+        <em:bootstrap>true</em:bootstrap>
+        <em:locale>ru-RU</em:locale>
+        <em:name>ASSO Notifier</em:name>
+        <em:description>ASSO Notifier Extension</em:description>
+        <em:creator>Vitaly Khatlamadgiyan</em:creator>
+        <em:optionsURL>chrome://asso_notifier/content/options.xul</em:optionsURL>
+        <!--em:optionsType>2</em:optionsType-->
+        <em:iconURL>chrome://asso_notifier/skin/icon-48.png</em:iconURL>
+        <em:icon64URL>chrome://asso_notifier/skin/icon-64.png</em:icon64URL>
+        <em:targetApplication>
+            <Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- Firefox -->
+                <em:minVersion>10.0</em:minVersion>
+                <em:maxVersion>*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+        <em:localized>
+            <Description>
+                <em:locale>ru</em:locale>
+                <em:name>Уведомления ASSO</em:name>
+                <em:description>Уведомления ASSO</em:description>
+                <em:creator>Хатламаджиян Виталий</em:creator>
+            </Description>
+        </em:localized>
+        <em:localized>
+            <Description>
+                <em:locale>en</em:locale>
+                <em:name>ASSO Notifier</em:name>
+                <em:description>ASSO Notifier Extension</em:description>
+                <em:creator>Vitaly Khatlamadgiyan</em:creator>
+            </Description>
+        </em:localized>
+    </Description>
+</RDF>
