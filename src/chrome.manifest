@@ -1,4 +1,4 @@
-content asso_notifier       content/
-locale  asso_notifier   ru  locale/ru/
-locale  asso_notifier   en  locale/en/
+content asso_notifier           content/
+locale  asso_notifier   ru      locale/ru/
+locale  asso_notifier   en      locale/en/
 skin    asso_notifier   default skin/

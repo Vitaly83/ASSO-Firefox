@@ -11,7 +11,7 @@
         <em:description>ASSO Notifier Extension</em:description>
         <em:creator>Vitaly Khatlamadgiyan</em:creator>
         <em:optionsURL>chrome://asso_notifier/content/options.xul</em:optionsURL>
-        <!--em:optionsType>2</em:optionsType-->
+        <em:optionsType>2</em:optionsType>
         <em:iconURL>chrome://asso_notifier/skin/icon-48.png</em:iconURL>
         <em:icon64URL>chrome://asso_notifier/skin/icon-64.png</em:icon64URL>
         <em:targetApplication>
